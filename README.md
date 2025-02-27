@@ -10,4 +10,4 @@
 ## Workshop session One
 ### Touchdesigner basics - Creating visualisations with animations and different data methods
 
-[**Starter file**](https://github.com/BAUXLCC/Data-stories-and-TouchDesigner-workshop/blob/196e5f764d1c1cddcb19bf9699fab292184c3609/Session-One/TD_DataStoriesWorkshop.1.toe)
+[**Starter file**](TD_DataStoriesWorkshop.1.toe)
