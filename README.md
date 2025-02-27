@@ -8,7 +8,7 @@
 
 
 
-## Workshop session 1
+## Workshop session One
 ### Touchdesigner basics - Creating visualisations with animations and different data methods
 
 **Starter file**
