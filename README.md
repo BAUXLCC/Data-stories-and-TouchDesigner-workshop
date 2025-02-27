@@ -11,3 +11,5 @@
 ### Touchdesigner basics - Creating visualisations with animations and different data methods
 
 [**Starter file**](https://github.com/BAUXLCC/Data-stories-and-TouchDesigner-workshop/releases/download/File/TD_DataStoriesWorkshop.1.toe)
+
+[Practice Datasets and APIs](/Session-One/Resources)
