@@ -17,4 +17,4 @@
 ## Workshop session Two
 ### Using OSM data with JSON Get API
 
-**[Starter File]((https://github.com/BAUXLCC/Data-stories-and-TouchDesigner-workshop/releases/download/File/TD_DataStoriesWorkshop.2.toe))**
+**[Starter File](https://github.com/BAUXLCC/Data-stories-and-TouchDesigner-workshop/releases/download/File/TD_DataStoriesWorkshop.2.toe)**
